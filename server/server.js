@@ -1,4 +1,4 @@
-// HTTP Server
+// A simple HTTP Server
 // Below code will be on the server
 var http = require('http');
 
