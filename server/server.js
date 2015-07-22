@@ -18,7 +18,7 @@ function onRequest(request, response) {
 // request = info about the user's request ie. info, webpage they tryna get
 // response = object we can send back to them ie. status info (connection was good wagera wagera)
 
-// Server will be listening to traffic or listening to the requests of the user througgh this port
+// Server will be listening to traffic or listening to the requests of the user through this port
 http.createServer(onRequest).listen(8888) // callback or the code you want to run whenever the user tries to connect to your server
 console.log("Server is now running ... ");
 
