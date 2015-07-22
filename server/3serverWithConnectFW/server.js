@@ -19,7 +19,7 @@ var app = connect();
 // It will ask on how to handle the request
 
 // Use a method called use
-// Code to handle user request is called middlewear
+// Code to handle user request is called middleware
 
 // Stacking of the functions which Connect allows us to do
 /* 1 function */
